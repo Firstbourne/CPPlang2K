@@ -1,0 +1,4 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (TaskITC3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+D:\Github\CPPlang2K\TaskITC3\TaskITC3\main.cpp(16,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  TaskITC3.vcxproj -> D:\Github\CPPlang2K\TaskITC3\x64\Debug\HomeWork1G.exe
