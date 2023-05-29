@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Github\CPPlang2K\HomeWork1_ClassRealize\HomeWork1\main.cpp(28): warning C4172: возвращение адреса локальной или временной переменной : sum_coordinates
+D:\Github\CPPlang2K\HomeWork1_ClassRealize\HomeWork1\main.cpp(35): warning C4172: возвращение адреса локальной или временной переменной : dif_coordinates
+D:\Github\CPPlang2K\HomeWork1_ClassRealize\HomeWork1\main.cpp(42): warning C4172: возвращение адреса локальной или временной переменной : equal_coordinates
+  HomeWork1.vcxproj -> D:\Github\CPPlang2K\HomeWork1_ClassRealize\x64\Debug\HomeWork1.exe

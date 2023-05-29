@@ -1,0 +1,23 @@
+﻿  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(190,16): warning C4244: инициализация: преобразование "_Ty" в "_Ty1", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=float
+          ]
+D:\Github\CPPlang2K\VectorPairOperation\HomeWork1H\main.cpp(13): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<float,std::string>::pair<double,const char(&)[8],0>(_Other1 &&,_Other2) noexcept(false)"
+          with
+          [
+              _Other1=double,
+              _Other2=const char (&)[8]
+          ]
+D:\Github\CPPlang2K\VectorPairOperation\HomeWork1H\main.cpp(7): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::pair<float,std::string>::pair<double,const char(&)[8],0>(_Other1 &&,_Other2) noexcept(false)"
+          with
+          [
+              _Other1=double,
+              _Other2=const char (&)[8]
+          ]
+  HomeWork1H.vcxproj -> D:\Github\CPPlang2K\VectorPairOperation\x64\Debug\HomeWork1H.exe

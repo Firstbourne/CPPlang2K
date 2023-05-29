@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Github\CPPlang2K\Matrix_OctoberFive\Matrix_OctoberFive\main.cpp(49,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Matrix_OctoberFive.vcxproj -> D:\Github\CPPlang2K\Matrix_OctoberFive\x64\Debug\Matrix_OctoberFive.exe
